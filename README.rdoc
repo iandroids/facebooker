@@ -54,7 +54,7 @@ The rake task would not be added automatically, so to use it in rails you would 
   
   require 'tasks/facebooker'
 
-Once the plugin is installed, you will need to configure your Facebook app in config/facebooker.yml. 
+Once the plugin is installed, you will need to configure your [Facebook](https://aapks.com/apk/facebook/) app in config/facebooker.yml. 
 
 Your application users will need to have added the application in facebook to access all of facebooker's features. You enforce this by adding
 
